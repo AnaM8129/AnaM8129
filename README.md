@@ -11,7 +11,15 @@
 
 - 📫 How to reach me **quiensoyanna@gmail.com**
 
-- ⚡ About me **🌍I'm from Medellin-Colombia, 📝I enjoy learning new things**
+**About me**
+<ul>
+  <li>🌍I'm from Medellin-Colombia</li>
+   <li>💻I'm Front-end developer</li>
+   <li>📝I enjoy learning new things</li>
+   <li>❤🐱☔I love cats and rain</li>
+   <li>🏊Hobbies other than coding: practice swimming</li>
+</ul>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
